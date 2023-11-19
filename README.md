@@ -3,6 +3,9 @@
 [![NPM Package][npm]][npm-url]
 [![NPM Package][lgtm]][lgtm-url]
 
+> fork自 [https://github.com/glslify/rollup-plugin-glslify](https://github.com/glslify/rollup-plugin-glslify) 调整rollup版本
+
+
 Import GLSL strings with [glslify](https://github.com/glslify/glslify) (a node.js-style module system for GLSL).
 
 ```js
@@ -74,7 +77,7 @@ glslify(options)
 [MIT](LICENSE)
 
 
-[npm]: https://img.shields.io/npm/v/rollup-plugin-glslify.svg
-[npm-url]: https://www.npmjs.com/package/rollup-plugin-glslify
-[lgtm]: https://img.shields.io/lgtm/alerts/github/glslify/rollup-plugin-glslify.svg
-[lgtm-url]: https://lgtm.com/projects/g/glslify/rollup-plugin-glslify
+[npm]: https://img.shields.io/npm/v/@vuemap/rollup-plugin-glslify.svg
+[npm-url]: https://www.npmjs.com/package/@vuemap/rollup-plugin-glslify
+[lgtm]: https://img.shields.io/lgtm/alerts/github/yangyanggu/rollup-plugin-glslify.svg
+[lgtm-url]: https://lgtm.com/projects/g/yangyanggu/rollup-plugin-glslify
